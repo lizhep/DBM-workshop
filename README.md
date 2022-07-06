@@ -1,4 +1,4 @@
-# Deformation Based Morphometry Workshop
+# Deformation Based Morphometry Workshop Notes
 
 ## Pipeline overview: 
 1. [Pulling scans from the directory](#1-pulling-scans-from-directory)
